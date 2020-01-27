@@ -1,6 +1,6 @@
-#this is my header.  there are many like it but this one is mine.  Joel Chenoweth
-#the year of our lord 2020, the month of January, day 26
-#the project is math fibonnacci sequence called without recursion
+#Joel Chenoweth
+#1-26-20
+#the project is math fibonnacci sequence
 def fib(n):
         """returns the positive integer into the sequence position"""
         if n <= 2:
